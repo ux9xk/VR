@@ -263,7 +263,13 @@ var APP_DATA = {
           "pitch": 0.2415604055207421,
           "rotation": 0,
           "target": "4-object_279"
-        }
+        },
+        {
+          "yaw": 0.12694957994060374,
+          "pitch": 0.17276625943635082,
+          "rotation": 5.497787143782138,
+          "target": "3-su-14"
+        }		
       ],
       "infoHotspots": [
         {
