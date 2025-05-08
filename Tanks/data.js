@@ -85,7 +85,13 @@ var APP_DATA = {
           "pitch": 0.1602320398407251,
           "rotation": 0,
           "target": "0-_"
-        }
+        },
+        {
+          "yaw": -0.7673321420725046,
+          "pitch": 0.22402726675188944,
+          "rotation": 0,
+          "target": "5-t34"
+        }		
       ],
       "infoHotspots": [
         {
@@ -98,7 +104,7 @@ var APP_DATA = {
     },
     {
       "id": "2-sturer-emil_vk3001",
-      "name": "Sturer Emil_VK3001自走砲",
+      "name": "VK3001(H) 12.8cm自走砲",
       "levels": [
         {
           "tileSize": 256,
